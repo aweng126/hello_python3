@@ -50,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello_statement/list.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
@@ -60,11 +60,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="if.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello_statement/if.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="26" />
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -87,6 +97,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/hello_statement/string.py" />
         <option value="$PROJECT_DIR$/hello_statement/list.py" />
+        <option value="$PROJECT_DIR$/hello_statement/if.py" />
       </list>
     </option>
   </component>
@@ -162,7 +173,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.list">
+  <component name="RunManager" selected="Python.if">
     <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +238,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_python3" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_statement/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="if" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hello_statement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hello_python3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_statement/if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -365,18 +393,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.helloworld" />
       <item index="1" class="java.lang.String" itemvalue="Python.variable" />
       <item index="2" class="java.lang.String" itemvalue="Python.string" />
       <item index="3" class="java.lang.String" itemvalue="Python.list" />
+      <item index="4" class="java.lang.String" itemvalue="Python.if" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.list" />
-        <item index="1" class="java.lang.String" itemvalue="Python.string" />
-        <item index="2" class="java.lang.String" itemvalue="Python.variable" />
-        <item index="3" class="java.lang.String" itemvalue="Python.helloworld" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.if" />
+        <item index="1" class="java.lang.String" itemvalue="Python.list" />
+        <item index="2" class="java.lang.String" itemvalue="Python.string" />
+        <item index="3" class="java.lang.String" itemvalue="Python.variable" />
+        <item index="4" class="java.lang.String" itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -456,18 +486,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hello_statement/list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello_statement/if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
