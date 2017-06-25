@@ -70,11 +70,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="circle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="circle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello_statement/circle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="177">
               <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hello_statement/dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -109,6 +119,7 @@
         <option value="$PROJECT_DIR$/hello_statement/if.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/hello_statement/circle.py" />
+        <option value="$PROJECT_DIR$/hello_statement/dict.py" />
       </list>
     </option>
   </component>
@@ -184,24 +195,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.circle">
-    <configuration default="false" name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hello_statement" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hello_python3" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_statement/variable.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.dict">
     <configuration default="false" name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,6 +260,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hello_python3" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_statement/circle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hello_statement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hello_python3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello_statement/dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -405,19 +416,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.variable" />
-      <item index="1" class="java.lang.String" itemvalue="Python.string" />
-      <item index="2" class="java.lang.String" itemvalue="Python.list" />
-      <item index="3" class="java.lang.String" itemvalue="Python.if" />
-      <item index="4" class="java.lang.String" itemvalue="Python.circle" />
+      <item index="0" class="java.lang.String" itemvalue="Python.string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.list" />
+      <item index="2" class="java.lang.String" itemvalue="Python.if" />
+      <item index="3" class="java.lang.String" itemvalue="Python.circle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dict" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.circle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.if" />
-        <item index="2" class="java.lang.String" itemvalue="Python.list" />
-        <item index="3" class="java.lang.String" itemvalue="Python.string" />
-        <item index="4" class="java.lang.String" itemvalue="Python.variable" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dict" />
+        <item index="1" class="java.lang.String" itemvalue="Python.circle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.if" />
+        <item index="3" class="java.lang.String" itemvalue="Python.list" />
+        <item index="4" class="java.lang.String" itemvalue="Python.string" />
       </list>
     </recent_temporary>
   </component>
@@ -513,6 +524,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hello_statement/circle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -521,10 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello_statement/circle.py">
+    <entry file="file://$PROJECT_DIR$/hello_statement/dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="228">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
